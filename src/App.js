@@ -1,7 +1,7 @@
-import './App.css'
+import './redux-toolkit-store/toolkit.scss'
 import React from 'react'
-import Counter from './redux-store/counter'
-//import Counter from '../src/redux-toolkit-store/toolkit-counter'
+//import Counter from './redux-store/counter'
+import Counter from '../src/redux-toolkit-store/toolkit-counter'
 
 const App = () => {
     return (

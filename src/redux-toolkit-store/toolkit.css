@@ -1,0 +1,15 @@
+.container {
+  margin-top: 80px;
+}
+.container h1 {
+  background-color: rgb(254, 232, 167);
+  color: rgb(14, 47, 167);
+  font-size: 50px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.container .btn {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}/*# sourceMappingURL=toolkit.css.map */
